@@ -1,0 +1,17 @@
+D:\C#\PhotoAlbum\EmployeeManager\bin\Debug\net6.0-windows\EmployeeManager.exe
+D:\C#\PhotoAlbum\EmployeeManager\bin\Debug\net6.0-windows\EmployeeManager.deps.json
+D:\C#\PhotoAlbum\EmployeeManager\bin\Debug\net6.0-windows\EmployeeManager.runtimeconfig.json
+D:\C#\PhotoAlbum\EmployeeManager\bin\Debug\net6.0-windows\EmployeeManager.dll
+D:\C#\PhotoAlbum\EmployeeManager\bin\Debug\net6.0-windows\EmployeeManager.pdb
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.csproj.AssemblyReference.cache
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.Form1.resources
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.csproj.GenerateResource.cache
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.AssemblyInfoInputs.cache
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.AssemblyInfo.cs
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.dll
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\refint\EmployeeManager.dll
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.pdb
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\EmployeeManager.genruntimeconfig.cache
+D:\C#\PhotoAlbum\EmployeeManager\obj\Debug\net6.0-windows\ref\EmployeeManager.dll

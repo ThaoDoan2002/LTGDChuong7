@@ -1,0 +1,17 @@
+D:\C#\PhotoAlbum\ListViewDemo\bin\Debug\net6.0-windows\ListViewDemo.exe
+D:\C#\PhotoAlbum\ListViewDemo\bin\Debug\net6.0-windows\ListViewDemo.deps.json
+D:\C#\PhotoAlbum\ListViewDemo\bin\Debug\net6.0-windows\ListViewDemo.runtimeconfig.json
+D:\C#\PhotoAlbum\ListViewDemo\bin\Debug\net6.0-windows\ListViewDemo.dll
+D:\C#\PhotoAlbum\ListViewDemo\bin\Debug\net6.0-windows\ListViewDemo.pdb
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.csproj.AssemblyReference.cache
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.Form1.resources
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.csproj.GenerateResource.cache
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.AssemblyInfoInputs.cache
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.AssemblyInfo.cs
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.csproj.CoreCompileInputs.cache
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.dll
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\refint\ListViewDemo.dll
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.pdb
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ListViewDemo.genruntimeconfig.cache
+D:\C#\PhotoAlbum\ListViewDemo\obj\Debug\net6.0-windows\ref\ListViewDemo.dll

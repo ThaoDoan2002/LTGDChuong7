@@ -1,0 +1,17 @@
+D:\C#\PhotoAlbum\PhotoAlbum\bin\Debug\net6.0-windows\PhotoAlbum.exe
+D:\C#\PhotoAlbum\PhotoAlbum\bin\Debug\net6.0-windows\PhotoAlbum.deps.json
+D:\C#\PhotoAlbum\PhotoAlbum\bin\Debug\net6.0-windows\PhotoAlbum.runtimeconfig.json
+D:\C#\PhotoAlbum\PhotoAlbum\bin\Debug\net6.0-windows\PhotoAlbum.dll
+D:\C#\PhotoAlbum\PhotoAlbum\bin\Debug\net6.0-windows\PhotoAlbum.pdb
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.csproj.AssemblyReference.cache
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.csproj.GenerateResource.cache
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.AssemblyInfoInputs.cache
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.AssemblyInfo.cs
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.dll
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\refint\PhotoAlbum.dll
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.pdb
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.genruntimeconfig.cache
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\ref\PhotoAlbum.dll
+D:\C#\PhotoAlbum\PhotoAlbum\obj\Debug\net6.0-windows\PhotoAlbum.PhotoAlbum.resources
